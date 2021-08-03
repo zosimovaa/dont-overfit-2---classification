@@ -8,7 +8,7 @@
 #classification, #hyperopt, #pipeline
 
 # Ссылки
-Ноутбук с решением: [kasko-2.0.ipynb](https://bitbucket.org/zosimovaa/kasko-classification/src/master/kasko-2.0.ipynb?viewer=nbviewerw)
+Ноутбук с решением: [don-t-overfit-ii-1model-v2-pipes.ipynb](https://bitbucket.org/zosimovaa/dont-overfit-2-classification/src/master/don-t-overfit-ii-1model-v2-pipes.ipynb?viewer=nbviewer)
 
 
 

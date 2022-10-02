@@ -8,8 +8,7 @@
 #classification, #hyperopt, #pipeline
 
 # Ссылки
-Ноутбук с решением: [don-t-overfit-ii-1model-v2-pipes.ipynb](https://bitbucket.org/zosimovaa/dont-overfit-2-classification/src/master/don-t-overfit-ii-1model-v2-pipes.ipynb?viewer=nbviewer)
-
+Ноутбук с решением: [don-t-overfit-ii-1model-v2-pipes.ipynb](https://github.com/zosimovaa/dont-overfit-2---classification/blob/master/don-t-overfit-ii-1model-v2-pipes.ipynb
 
 
  
